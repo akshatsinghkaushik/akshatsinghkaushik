@@ -16,6 +16,8 @@
 - 🔧 &nbsp; Git | Markdown | YAML
 - 🖥 &nbsp; Adobe XD | Adobe Photoshop | Adobe Premiere
 
+<br/>
+
 <img src = "https://github-readme-stats.vercel.app/api?username=akshatsinghkaushik&show_icons=true&theme=radical&line_height=27">
 
 <h3> 🤝🏻 Connect with Me </h3>
