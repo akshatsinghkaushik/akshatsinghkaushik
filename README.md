@@ -20,9 +20,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
 <a href="https://www.linkedin.com/in/a-s-kaushik/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akshat%20Singh%20Kaushik-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:akshatsinghkaushik@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akshatsinghkaushik@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ⭐️ From [akshatsinghkaushik](https://github.com/akshatsinghkaushik)
