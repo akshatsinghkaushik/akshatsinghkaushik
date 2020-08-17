@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web applications.
 - 🎓 &nbsp; Graduate of University of Technology Sydney.
-- 😊 &nbsp; Willing to contribute in opensource development projects.
+- 😊 &nbsp; Willing to contribute to Open-Source projects.
 - 👍 &nbsp; Looking for opportunities to join as an intern/full time web developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Data Structures and Algorithms.
 
