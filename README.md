@@ -4,15 +4,15 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web applications.
 - 🎓 &nbsp; Graduate of University of Technology Sydney.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time web developer.
+- 😊 &nbsp; Willing to contribute in opensource development projects.
+- 👍 &nbsp; Looking for opportunities to join as an intern/full time web developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Data Structures and Algorithms.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; PostgreSQL | MongoDB
+- 🛢 &nbsp;  PostgreSQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | YAML
 - 🖥 &nbsp; Adobe XD | Adobe Photoshop | Adobe Premiere
 
@@ -20,10 +20,8 @@
 
 [![akshatsinghkaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatsinghkaushik&show_icons=true&theme=radical&line_height=27)](https://github.com/akshatsinghkaushik)
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=akshatsinghkaushik&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinghkaushik&hide=css,html&theme=tokyonight">
-</p>
+<img src = "https://github-readme-stats.vercel.app/api?username=akshatsinghkaushik&show_icons=true&theme=radical&line_height=27">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsinghkaushik&hide=css,html&theme=tokyonight">
 
 <h3> 🤝🏻 Connect with Me </h3>
 
