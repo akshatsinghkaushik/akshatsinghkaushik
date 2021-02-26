@@ -11,8 +11,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp;  PostgreSQL | MongoDB
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | SocketIO
+- 🛢 &nbsp;  PostgreSQL | MongoDB | mySQL
 - 🔧 &nbsp; Git | Markdown | YAML
 - 🖥 &nbsp; Adobe XD | Adobe Photoshop | Adobe Premiere
 
