@@ -14,8 +14,6 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | SocketIO
 - 🛢 &nbsp;  PostgreSQL | MongoDB | mySQL
 - 🔧 &nbsp; Git | Markdown | YAML
-- 🖥 &nbsp; Adobe XD | Adobe Photoshop | Adobe Premiere
-
 <br/>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=akshatsinghkaushik&show_icons=true&theme=radical&line_height=27">
